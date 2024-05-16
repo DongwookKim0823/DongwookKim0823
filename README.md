@@ -25,4 +25,4 @@ and continually seek opportunities to grow and refine my skills.
 <a href="https://velog.io/@ehddnr7355/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zaman17"/></a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongwookKim0823&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongwookKim0823&show_icons=true)
