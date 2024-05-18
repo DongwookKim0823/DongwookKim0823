@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Dongwook Kim, a passionate software engineer with a background in backend engineering and cloud technologies.  
-I'm particularly interested in backend development and enjoy solving real-world problems through technology.  
+I'm particularly interested in backend engineering and enjoy solving real-world problems through technology.  
 I aspire to turn complex issues into efficient solutions using modern programming techniques  
 and continually seek opportunities to grow and refine my skills. 
 
