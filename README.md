@@ -12,4 +12,10 @@ and continually seek opportunities to grow and refine my skills.
 <a href="https://velog.io/@ehddnr7355/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zaman17"/></a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongwookKim0823&show_icons=true)
+![DongwookKim0823's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongwookKim0823&show_icons=true)
+
+
+[![Solved.ac profile](http://mazassumnida.wtf/api/generate_badge?boj=kdw8055)](https://solved.ac/kdw8055)
+<a href="https://www.credly.com/badges/566f122d-4827-497a-8bb4-b84795fa3b48/public_url">
+    <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="175" height="175" />
+</a>
